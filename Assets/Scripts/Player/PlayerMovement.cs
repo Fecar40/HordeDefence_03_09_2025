@@ -16,11 +16,11 @@ public class PlayerMovement : MonoBehaviour
     private void Start()
     {
         _rigidbody = GetComponent<Rigidbody>();
-        _rigidbody.freezeRotation = true;
+        //_rigidbody.freezeRotation = true;
 
     }
 
-    private void FixedUpdate()
+    private void Update()
     {
         float moveInput = joystick.Horizontal;
 

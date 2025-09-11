@@ -8,7 +8,7 @@ public class Player : MonoBehaviour
 
     [SerializeField] private GameObject _soldierPrefab;
 
-    private void Start()
+    /*private void Start()
     {
         _pool = GetComponent<Pool>();
         _pool = new Pool(_soldierPrefab);
@@ -16,7 +16,7 @@ public class Player : MonoBehaviour
         SoldierMovement.SetPlayer(gameObject);
 
         AddSoldier();
-    }
+    }*/
 
     public void AddSoldier()
     {
