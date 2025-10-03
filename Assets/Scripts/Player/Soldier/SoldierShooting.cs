@@ -11,8 +11,7 @@ public class SoldierShooting : MonoBehaviour
 
     private void Awake()
     {
-        if (_soldierEquipment == null)
-            _soldierEquipment = SoldierEquipment.Instance;
+
     }
 
     private void Update()

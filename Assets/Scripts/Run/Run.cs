@@ -28,18 +28,19 @@ public class Run : MonoBehaviour
     {
         Stopped?.Invoke();
     }
-
+    
     private void OnEnable()
     {
         _startGameButton.onClick.AddListener(StartRun);
         _soldierSpawner.AllSoldiersDead += Stop;
-        _endZoneCollision.EnemyCollidedEndZone += Stop;
+        //_endZoneCollision.EnemyCollidedEndZone += Stop;
     }
 
     private void OnDisable()
     {
         _startGameButton.onClick.RemoveListener(StartRun);
         _soldierSpawner.AllSoldiersDead -= Stop;
-        _endZoneCollision.EnemyCollidedEndZone -= Stop;
+       // _endZoneCollision.EnemyCollidedEndZone -= Stop;
     }
+    
 }

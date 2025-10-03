@@ -4,9 +4,9 @@ public class PlayerMovement : MonoBehaviour
 {
     [SerializeField] private FloatingJoystick _joystick;
 
-    private const float MinAllowedPositionX = -2f;
-    private const float MaxAllowedPositionX = 2f;
-    private const float Speed = 8f;
+    [SerializeField]  private float MinAllowedPositionX = -2f;
+    [SerializeField]  private float MaxAllowedPositionX = 2f;
+    [SerializeField] private  float Speed = 8f;
 
     private void Update()
     {

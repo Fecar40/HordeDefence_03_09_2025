@@ -10,25 +10,24 @@ public class CrateHealth : Crate, IDamageable
 
     private void Start()
     {
-        InitializeHealth(RoundDuration.Instance.Duration);
-        CrateDamaged?.Invoke(Health);
+        InitializeHealth(15);
     }
 
     public void InitializeHealth(int health)
     {
         Health = health;
-        CrateDamaged?.Invoke(Health);
+        //CrateDamaged?.Invoke(Health);
     }
 
     public void TakeDamage(int damage)
     {
         Health -= damage;
 
-        CrateDamaged?.Invoke(Health);
+        //CrateDamaged?.Invoke(Health);
 
         if (Health <= 0)
         {
-            CrateDestroyed?.Invoke(_gun);
+            //CrateDestroyed?.Invoke(_gun);
             Destroy(gameObject);
         }
     }

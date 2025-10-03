@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 
-public class CurrentGunDisplay : RunUIActive
+public class CurrentGunDisplay : MonoBehaviour
 {
     [SerializeField] private SoldierEquipment _soldierEquipment;
 

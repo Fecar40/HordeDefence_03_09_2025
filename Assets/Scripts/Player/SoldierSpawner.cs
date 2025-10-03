@@ -5,7 +5,6 @@ using System.Collections.Generic;
 public class SoldierSpawner : MonoBehaviour
 {
     [SerializeField] private GameObject _soldierPrefab;
-    [SerializeField] private Run _run;
     [SerializeField] private Spawner _spawner;
 
     private int _soldiersMaximumAmount = 30;
@@ -15,6 +14,11 @@ public class SoldierSpawner : MonoBehaviour
     public event Action AllSoldiersDead;
     public event Action SoldiersAmountChanged;
     public event Action AmountLimiterTriggered;
+
+    private void Awake()
+    {
+        AddSoldier();
+    }
 
     public void RegisterEnemy(EnemyHealth enemy)
     {
@@ -88,34 +92,6 @@ public class SoldierSpawner : MonoBehaviour
                 RemoveSoldier();
         }
     }
-
-    private void OnRunStarted()
-    {
-        AddSoldier();
-    }
-
-    private void OnRunStopped()
-    {
-        foreach (var soldier in _soldiers)
-            Destroy(soldier);
-
-        _soldiers.Clear();
-    }
-
-    private void OnEnable()
-    {
-        _run.Started += OnRunStarted;
-        _run.Stopped += OnRunStopped;
-        _spawner.ObstacleSpawned += OnObstacleSpawned;
-    }
-
-    private void OnDisable()
-    {
-        _run.Started -= OnRunStarted;
-        _run.Stopped -= OnRunStopped;
-        _spawner.ObstacleSpawned -= OnObstacleSpawned;
-    }
-
     private void OnObstacleSpawned(GameObject obj)
     {
         if (obj.TryGetComponent<EnemyHealth>(out EnemyHealth enemy))

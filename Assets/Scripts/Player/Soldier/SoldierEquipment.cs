@@ -3,11 +3,9 @@ using UnityEngine.Events;
 
 public class SoldierEquipment : MonoBehaviour
 {
-    public static SoldierEquipment Instance { get; private set; }
 
     public event UnityAction<Sprite> GunEquiped;
 
-    [SerializeField] private Run _run;
 
     [SerializeField] private Gun _defaultGun;
 
@@ -21,7 +19,7 @@ public class SoldierEquipment : MonoBehaviour
 
     private void Awake()
     {
-        Instance = this;
+        EquipGun(_defaultGun);
     }
 
     public void EquipGun(Gun gun)

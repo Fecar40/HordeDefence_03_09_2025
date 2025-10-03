@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.Advertisements;
 
-public class RewardedAds : MonoBehaviour, IUnityAdsLoadListener, IUnityAdsShowListener
+/*public class RewardedAds : MonoBehaviour, IUnityAdsLoadListener, IUnityAdsShowListener
 {
     [SerializeField] string androidAdUnitId = "Rewarded_Android";
     [SerializeField] string iOSAdUnitId = "Rewarded_iOS";
@@ -38,5 +38,5 @@ public class RewardedAds : MonoBehaviour, IUnityAdsLoadListener, IUnityAdsShowLi
             Debug.Log("Пользователь досмотрел рекламу, можно дать награду");
         }
     }
-}
+}*/
 

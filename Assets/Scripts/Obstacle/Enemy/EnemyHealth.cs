@@ -9,7 +9,7 @@ public class EnemyHealth : MonoBehaviour, IDamageable
     
     private void Start()
     {
-        InitializeHealth(RoundDuration.Instance.Duration);
+       InitializeHealth(20);
     }
 
     public void InitializeHealth(int health)

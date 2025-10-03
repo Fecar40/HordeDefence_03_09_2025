@@ -12,7 +12,9 @@ public class Wallet : MonoBehaviour
     public void Add(int amount)
     {
         _money += amount;
-        MoneyChanged?.Invoke(_money);
+        //MoneyChanged?.Invoke(_money);
+        Save(_money);
+
     }
 
     public void Subtract(int amount)
@@ -20,7 +22,8 @@ public class Wallet : MonoBehaviour
         if (_money - amount >= 0)
         {
             _money -= amount;
-            MoneyChanged?.Invoke(_money);
+            //MoneyChanged?.Invoke(_money);
+            Save(_money);
         }
     }
 
@@ -38,5 +41,11 @@ public class Wallet : MonoBehaviour
     private void OnDisable()
     {
         _roundScore.Finished -= Add;
+    }
+
+    private void Save(int amount) 
+    {
+        PlayerPrefs.SetInt("money", amount);
+        PlayerPrefs.Save();
     }
 }

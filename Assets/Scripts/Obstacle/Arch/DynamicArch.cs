@@ -7,7 +7,7 @@ public class DynamicArch : ArchBase
 
     private void Start()
     {
-        _soldierCountChange = Random.Range(-RoundDuration.Instance.Duration, RoundDuration.Instance.Duration);
+        _soldierCountChange = Random.Range(-10, 10);
         InitDisplay();
     }
 

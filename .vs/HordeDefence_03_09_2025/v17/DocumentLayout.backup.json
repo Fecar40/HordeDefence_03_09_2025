@@ -1,0 +1,412 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Q:\\UNITY\\Unity\\HordeDefence_03_09_2025\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{317ED387-3FA5-2D55-0C19-524AB5F42AB1}|Assembly-CSharp.csproj|Q:\\UNITY\\Unity\\HordeDefence_03_09_2025\\assets\\scripts\\guns\\gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317ED387-3FA5-2D55-0C19-524AB5F42AB1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\guns\\gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317ED387-3FA5-2D55-0C19-524AB5F42AB1}|Assembly-CSharp.csproj|Q:\\UNITY\\Unity\\HordeDefence_03_09_2025\\assets\\scripts\\obstaclespawner\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317ED387-3FA5-2D55-0C19-524AB5F42AB1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\obstaclespawner\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317ED387-3FA5-2D55-0C19-524AB5F42AB1}|Assembly-CSharp.csproj|q:\\unity\\unity\\hordedefence_03_09_2025\\assets\\scripts\\obstacle\\enemy\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317ED387-3FA5-2D55-0C19-524AB5F42AB1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\obstacle\\enemy\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317ED387-3FA5-2D55-0C19-524AB5F42AB1}|Assembly-CSharp.csproj|Q:\\UNITY\\Unity\\HordeDefence_03_09_2025\\assets\\scripts\\endzonecollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317ED387-3FA5-2D55-0C19-524AB5F42AB1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\endzonecollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317ED387-3FA5-2D55-0C19-524AB5F42AB1}|Assembly-CSharp.csproj|Q:\\UNITY\\Unity\\HordeDefence_03_09_2025\\assets\\scripts\\guns\\rifle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317ED387-3FA5-2D55-0C19-524AB5F42AB1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\guns\\rifle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317ED387-3FA5-2D55-0C19-524AB5F42AB1}|Assembly-CSharp.csproj|q:\\unity\\unity\\hordedefence_03_09_2025\\assets\\scripts\\obstacle\\obstacle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317ED387-3FA5-2D55-0C19-524AB5F42AB1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\obstacle\\obstacle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317ED387-3FA5-2D55-0C19-524AB5F42AB1}|Assembly-CSharp.csproj|Q:\\UNITY\\Unity\\HordeDefence_03_09_2025\\assets\\scripts\\guns\\playerarmory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317ED387-3FA5-2D55-0C19-524AB5F42AB1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\guns\\playerarmory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317ED387-3FA5-2D55-0C19-524AB5F42AB1}|Assembly-CSharp.csproj|q:\\unity\\unity\\hordedefence_03_09_2025\\assets\\scripts\\obstacle\\arch\\dynamicarch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317ED387-3FA5-2D55-0C19-524AB5F42AB1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\obstacle\\arch\\dynamicarch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317ED387-3FA5-2D55-0C19-524AB5F42AB1}|Assembly-CSharp.csproj|Q:\\UNITY\\Unity\\HordeDefence_03_09_2025\\assets\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317ED387-3FA5-2D55-0C19-524AB5F42AB1}|Assembly-CSharp.csproj|solutionrelative:assets\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|Q:\\UNITY\\Platformer\\Assets\\Scripts\\Guns\\PlayerArmory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317ED387-3FA5-2D55-0C19-524AB5F42AB1}|Assembly-CSharp.csproj|Q:\\UNITY\\Unity\\HordeDefence_03_09_2025\\assets\\scripts\\guns\\pistol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317ED387-3FA5-2D55-0C19-524AB5F42AB1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\guns\\pistol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317ED387-3FA5-2D55-0C19-524AB5F42AB1}|Assembly-CSharp.csproj|Q:\\UNITY\\Unity\\HordeDefence_03_09_2025\\assets\\scripts\\player\\soldier\\soldiershooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317ED387-3FA5-2D55-0C19-524AB5F42AB1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\soldier\\soldiershooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|Q:\\UNITY\\Platformer\\Assets\\Scripts\\Guns\\Automat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317ED387-3FA5-2D55-0C19-524AB5F42AB1}|Assembly-CSharp.csproj|Q:\\UNITY\\Unity\\HordeDefence_03_09_2025\\assets\\scripts\\player\\soldier\\soldierequipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317ED387-3FA5-2D55-0C19-524AB5F42AB1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\soldier\\soldierequipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317ED387-3FA5-2D55-0C19-524AB5F42AB1}|Assembly-CSharp.csproj|Q:\\UNITY\\Unity\\HordeDefence_03_09_2025\\assets\\scripts\\ui\\startrunbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317ED387-3FA5-2D55-0C19-524AB5F42AB1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\startrunbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317ED387-3FA5-2D55-0C19-524AB5F42AB1}|Assembly-CSharp.csproj|Q:\\UNITY\\Unity\\HordeDefence_03_09_2025\\assets\\scripts\\run\\run.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317ED387-3FA5-2D55-0C19-524AB5F42AB1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\run\\run.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317ED387-3FA5-2D55-0C19-524AB5F42AB1}|Assembly-CSharp.csproj|Q:\\UNITY\\Unity\\HordeDefence_03_09_2025\\assets\\scripts\\wallet\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317ED387-3FA5-2D55-0C19-524AB5F42AB1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\wallet\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317ED387-3FA5-2D55-0C19-524AB5F42AB1}|Assembly-CSharp.csproj|Q:\\UNITY\\Unity\\HordeDefence_03_09_2025\\assets\\scripts\\wallet\\walletsaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317ED387-3FA5-2D55-0C19-524AB5F42AB1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\wallet\\walletsaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317ED387-3FA5-2D55-0C19-524AB5F42AB1}|Assembly-CSharp.csproj|Q:\\UNITY\\Unity\\HordeDefence_03_09_2025\\assets\\scripts\\obstacle\\enemy\\enemycollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317ED387-3FA5-2D55-0C19-524AB5F42AB1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\obstacle\\enemy\\enemycollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317ED387-3FA5-2D55-0C19-524AB5F42AB1}|Assembly-CSharp.csproj|Q:\\UNITY\\Unity\\HordeDefence_03_09_2025\\assets\\scripts\\obstacle\\obstaclemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317ED387-3FA5-2D55-0C19-524AB5F42AB1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\obstacle\\obstaclemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317ED387-3FA5-2D55-0C19-524AB5F42AB1}|Assembly-CSharp.csproj|Q:\\UNITY\\Unity\\HordeDefence_03_09_2025\\assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317ED387-3FA5-2D55-0C19-524AB5F42AB1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317ED387-3FA5-2D55-0C19-524AB5F42AB1}|Assembly-CSharp.csproj|Q:\\UNITY\\Unity\\HordeDefence_03_09_2025\\assets\\joystick pack\\scripts\\joysticks\\floatingjoystick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317ED387-3FA5-2D55-0C19-524AB5F42AB1}|Assembly-CSharp.csproj|solutionrelative:assets\\joystick pack\\scripts\\joysticks\\floatingjoystick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317ED387-3FA5-2D55-0C19-524AB5F42AB1}|Assembly-CSharp.csproj|Q:\\UNITY\\Unity\\HordeDefence_03_09_2025\\assets\\scripts\\ads\\rewardedads.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317ED387-3FA5-2D55-0C19-524AB5F42AB1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ads\\rewardedads.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317ED387-3FA5-2D55-0C19-524AB5F42AB1}|Assembly-CSharp.csproj|Q:\\UNITY\\Unity\\HordeDefence_03_09_2025\\assets\\scripts\\ads\\adsinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317ED387-3FA5-2D55-0C19-524AB5F42AB1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ads\\adsinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DynamicArch.cs",
+              "DocumentMoniker": "Q:\\UNITY\\Unity\\HordeDefence_03_09_2025\\Assets\\Scripts\\Obstacle\\Arch\\DynamicArch.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Obstacle\\Arch\\DynamicArch.cs",
+              "ToolTip": "Q:\\UNITY\\Unity\\HordeDefence_03_09_2025\\Assets\\Scripts\\Obstacle\\Arch\\DynamicArch.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Obstacle\\Arch\\DynamicArch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T12:28:30.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnemyHealth.cs",
+              "DocumentMoniker": "Q:\\UNITY\\Unity\\HordeDefence_03_09_2025\\Assets\\Scripts\\Obstacle\\Enemy\\EnemyHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Obstacle\\Enemy\\EnemyHealth.cs",
+              "ToolTip": "Q:\\UNITY\\Unity\\HordeDefence_03_09_2025\\Assets\\Scripts\\Obstacle\\Enemy\\EnemyHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Obstacle\\Enemy\\EnemyHealth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T12:26:55.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Obstacle.cs",
+              "DocumentMoniker": "Q:\\UNITY\\Unity\\HordeDefence_03_09_2025\\Assets\\Scripts\\Obstacle\\Obstacle.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Obstacle\\Obstacle.cs",
+              "ToolTip": "Q:\\UNITY\\Unity\\HordeDefence_03_09_2025\\Assets\\Scripts\\Obstacle\\Obstacle.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Obstacle\\Obstacle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T12:23:55.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Rifle.cs",
+              "DocumentMoniker": "Q:\\UNITY\\Unity\\HordeDefence_03_09_2025\\Assets\\Scripts\\Guns\\Rifle.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Guns\\Rifle.cs",
+              "ToolTip": "Q:\\UNITY\\Unity\\HordeDefence_03_09_2025\\Assets\\Scripts\\Guns\\Rifle.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Guns\\Rifle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T09:13:19.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerArmory.cs",
+              "DocumentMoniker": "Q:\\UNITY\\Unity\\HordeDefence_03_09_2025\\Assets\\Scripts\\Guns\\PlayerArmory.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Guns\\PlayerArmory.cs",
+              "ToolTip": "Q:\\UNITY\\Unity\\HordeDefence_03_09_2025\\Assets\\Scripts\\Guns\\PlayerArmory.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Guns\\PlayerArmory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T09:18:20.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Spawner.cs",
+              "DocumentMoniker": "Q:\\UNITY\\Unity\\HordeDefence_03_09_2025\\Assets\\Scripts\\ObstacleSpawner\\Spawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ObstacleSpawner\\Spawner.cs",
+              "ToolTip": "Q:\\UNITY\\Unity\\HordeDefence_03_09_2025\\Assets\\Scripts\\ObstacleSpawner\\Spawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ObstacleSpawner\\Spawner.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T11:52:10.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EndZoneCollision.cs",
+              "DocumentMoniker": "Q:\\UNITY\\Unity\\HordeDefence_03_09_2025\\Assets\\Scripts\\EndZoneCollision.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EndZoneCollision.cs",
+              "ToolTip": "Q:\\UNITY\\Unity\\HordeDefence_03_09_2025\\Assets\\Scripts\\EndZoneCollision.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EndZoneCollision.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T11:57:36.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Pistol.cs",
+              "DocumentMoniker": "Q:\\UNITY\\Unity\\HordeDefence_03_09_2025\\Assets\\Scripts\\Guns\\Pistol.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Guns\\Pistol.cs",
+              "ToolTip": "Q:\\UNITY\\Unity\\HordeDefence_03_09_2025\\Assets\\Scripts\\Guns\\Pistol.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Guns\\Pistol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T09:11:19.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "Q:\\UNITY\\Unity\\HordeDefence_03_09_2025\\Assets\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Bullet.cs",
+              "ToolTip": "Q:\\UNITY\\Unity\\HordeDefence_03_09_2025\\Assets\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Bullet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T11:30:06.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Gun.cs",
+              "DocumentMoniker": "Q:\\UNITY\\Unity\\HordeDefence_03_09_2025\\Assets\\Scripts\\Guns\\Gun.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Guns\\Gun.cs",
+              "ToolTip": "Q:\\UNITY\\Unity\\HordeDefence_03_09_2025\\Assets\\Scripts\\Guns\\Gun.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Guns\\Gun.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T09:08:57.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlayerArmory.cs",
+              "DocumentMoniker": "Q:\\UNITY\\Platformer\\Assets\\Scripts\\Guns\\PlayerArmory.cs",
+              "RelativeDocumentMoniker": "..\\..\\Platformer\\Assets\\Scripts\\Guns\\PlayerArmory.cs",
+              "ToolTip": "Q:\\UNITY\\Platformer\\Assets\\Scripts\\Guns\\PlayerArmory.cs",
+              "RelativeToolTip": "..\\..\\Platformer\\Assets\\Scripts\\Guns\\PlayerArmory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T12:40:51.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Automat.cs",
+              "DocumentMoniker": "Q:\\UNITY\\Platformer\\Assets\\Scripts\\Guns\\Automat.cs",
+              "RelativeDocumentMoniker": "..\\..\\Platformer\\Assets\\Scripts\\Guns\\Automat.cs",
+              "ToolTip": "Q:\\UNITY\\Platformer\\Assets\\Scripts\\Guns\\Automat.cs",
+              "RelativeToolTip": "..\\..\\Platformer\\Assets\\Scripts\\Guns\\Automat.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T12:37:15.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SoldierShooting.cs",
+              "DocumentMoniker": "Q:\\UNITY\\Unity\\HordeDefence_03_09_2025\\Assets\\Scripts\\Player\\Soldier\\SoldierShooting.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Soldier\\SoldierShooting.cs",
+              "ToolTip": "Q:\\UNITY\\Unity\\HordeDefence_03_09_2025\\Assets\\Scripts\\Player\\Soldier\\SoldierShooting.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Soldier\\SoldierShooting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T12:28:23.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SoldierEquipment.cs",
+              "DocumentMoniker": "Q:\\UNITY\\Unity\\HordeDefence_03_09_2025\\Assets\\Scripts\\Player\\Soldier\\SoldierEquipment.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Soldier\\SoldierEquipment.cs",
+              "ToolTip": "Q:\\UNITY\\Unity\\HordeDefence_03_09_2025\\Assets\\Scripts\\Player\\Soldier\\SoldierEquipment.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Soldier\\SoldierEquipment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T12:23:52.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StartRunButton.cs",
+              "DocumentMoniker": "Q:\\UNITY\\Unity\\HordeDefence_03_09_2025\\Assets\\Scripts\\UI\\StartRunButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\StartRunButton.cs",
+              "ToolTip": "Q:\\UNITY\\Unity\\HordeDefence_03_09_2025\\Assets\\Scripts\\UI\\StartRunButton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\StartRunButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T12:18:41.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Run.cs",
+              "DocumentMoniker": "Q:\\UNITY\\Unity\\HordeDefence_03_09_2025\\Assets\\Scripts\\Run\\Run.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Run\\Run.cs",
+              "ToolTip": "Q:\\UNITY\\Unity\\HordeDefence_03_09_2025\\Assets\\Scripts\\Run\\Run.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Run\\Run.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T11:56:52.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WalletSaver.cs",
+              "DocumentMoniker": "Q:\\UNITY\\Unity\\HordeDefence_03_09_2025\\Assets\\Scripts\\Wallet\\WalletSaver.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Wallet\\WalletSaver.cs",
+              "ToolTip": "Q:\\UNITY\\Unity\\HordeDefence_03_09_2025\\Assets\\Scripts\\Wallet\\WalletSaver.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Wallet\\WalletSaver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T11:42:41.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Wallet.cs",
+              "DocumentMoniker": "Q:\\UNITY\\Unity\\HordeDefence_03_09_2025\\Assets\\Scripts\\Wallet\\Wallet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Wallet\\Wallet.cs",
+              "ToolTip": "Q:\\UNITY\\Unity\\HordeDefence_03_09_2025\\Assets\\Scripts\\Wallet\\Wallet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Wallet\\Wallet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T11:30:08.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EnemyCollision.cs",
+              "DocumentMoniker": "Q:\\UNITY\\Unity\\HordeDefence_03_09_2025\\Assets\\Scripts\\Obstacle\\Enemy\\EnemyCollision.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Obstacle\\Enemy\\EnemyCollision.cs",
+              "ToolTip": "Q:\\UNITY\\Unity\\HordeDefence_03_09_2025\\Assets\\Scripts\\Obstacle\\Enemy\\EnemyCollision.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Obstacle\\Enemy\\EnemyCollision.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T11:23:24.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ObstacleMovement.cs",
+              "DocumentMoniker": "Q:\\UNITY\\Unity\\HordeDefence_03_09_2025\\Assets\\Scripts\\Obstacle\\ObstacleMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Obstacle\\ObstacleMovement.cs",
+              "ToolTip": "Q:\\UNITY\\Unity\\HordeDefence_03_09_2025\\Assets\\Scripts\\Obstacle\\ObstacleMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Obstacle\\ObstacleMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T11:23:02.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FloatingJoystick.cs",
+              "DocumentMoniker": "Q:\\UNITY\\Unity\\HordeDefence_03_09_2025\\Assets\\Joystick Pack\\Scripts\\Joysticks\\FloatingJoystick.cs",
+              "RelativeDocumentMoniker": "Assets\\Joystick Pack\\Scripts\\Joysticks\\FloatingJoystick.cs",
+              "ToolTip": "Q:\\UNITY\\Unity\\HordeDefence_03_09_2025\\Assets\\Joystick Pack\\Scripts\\Joysticks\\FloatingJoystick.cs",
+              "RelativeToolTip": "Assets\\Joystick Pack\\Scripts\\Joysticks\\FloatingJoystick.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T11:20:45.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "Q:\\UNITY\\Unity\\HordeDefence_03_09_2025\\Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "ToolTip": "Q:\\UNITY\\Unity\\HordeDefence_03_09_2025\\Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T09:04:14.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RewardedAds.cs",
+              "DocumentMoniker": "Q:\\UNITY\\Unity\\HordeDefence_03_09_2025\\Assets\\Scripts\\Ads\\RewardedAds.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Ads\\RewardedAds.cs",
+              "ToolTip": "Q:\\UNITY\\Unity\\HordeDefence_03_09_2025\\Assets\\Scripts\\Ads\\RewardedAds.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Ads\\RewardedAds.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T08:38:44.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AdsInitializer.cs",
+              "DocumentMoniker": "Q:\\UNITY\\Unity\\HordeDefence_03_09_2025\\Assets\\Scripts\\Ads\\AdsInitializer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Ads\\AdsInitializer.cs",
+              "ToolTip": "Q:\\UNITY\\Unity\\HordeDefence_03_09_2025\\Assets\\Scripts\\Ads\\AdsInitializer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Ads\\AdsInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T08:37:40.461Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

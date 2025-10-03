@@ -1,0 +1,20 @@
+using UnityEngine;
+
+public class Bullet : MonoBehaviour
+{
+    //[SerializeField] GameObject _effectPrefab;
+   private void Start()
+    {
+       // Destroy(gameObject, 4f);
+    }
+    private void OnCollisionEnter(Collision collision)
+    {
+        Die();
+    }
+
+    public void Die()
+    {
+       // Instantiate(_effectPrefab, transform.position, Quaternion.identity);
+        Destroy(gameObject);
+    }
+}

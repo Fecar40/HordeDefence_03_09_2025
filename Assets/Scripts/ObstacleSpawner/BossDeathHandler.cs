@@ -16,6 +16,6 @@ public class BossDeathHandler : MonoBehaviour
 
     private void OnDead()
     {
-        _spawnerTimer.IsRunning(true);
+        //_spawnerTimer.IsRunning(true);
     }
 }

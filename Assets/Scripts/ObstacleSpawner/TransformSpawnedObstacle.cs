@@ -11,13 +11,13 @@ public class TransformSpawnedObstacle : MonoBehaviour
 
     private void OnEnable()
     {
-        _spawner.ObstacleSpawned += TransformObstacle;
+        //_spawner.ObstacleSpawned += TransformObstacle;
         _bossSpawner.Spawned += TransformObstacle;
     }
 
     private void OnDisable()
     {
-        _spawner.ObstacleSpawned -= TransformObstacle;
+        //_spawner.ObstacleSpawned -= TransformObstacle;
         _bossSpawner.Spawned -= TransformObstacle;
     }
 

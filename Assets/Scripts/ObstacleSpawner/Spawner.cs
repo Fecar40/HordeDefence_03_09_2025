@@ -1,25 +1,31 @@
 using UnityEngine;
 using UnityEngine.Events;
 
-[RequireComponent(typeof(ObstacleList))]
-[RequireComponent(typeof(Timer))]
 public class Spawner : MonoBehaviour
 {
-    [SerializeField] private Timer _timer;
+    [SerializeField] private float _timer;
+    [SerializeField] private float _spawnPeriod;
 
-    internal UnityAction<GameObject> ObstacleSpawned;
-
+    private readonly Vector2 _xRange = new Vector2(-5f, 5f);
     private ObstacleList _obstacleList;
 
-    private void Start()
+    private void Awake()
     {
         _obstacleList = GetComponent<ObstacleList>();
     }
 
+    private void Update()
+    {
+        _timer += Time.unscaledDeltaTime;
+        if (_timer > _spawnPeriod)
+        {
+            Spawn(GetRandomObstacle());
+        }
+    }
     private void Spawn(GameObject obstacle)
     {
-        GameObject newObstacle = Instantiate(obstacle, new Vector3(0, 0, 0), Quaternion.identity);
-        ObstacleSpawned?.Invoke(newObstacle);
+        _timer = 0;
+        GameObject newObstacle = Instantiate(obstacle,obstacle.transform.position = new Vector3(Random.Range(_xRange.x, _xRange.y), transform.position.y + 0.5f, transform.position.z), Quaternion.identity);
     }
 
     private GameObject GetRandomObstacle()
@@ -30,7 +36,6 @@ public class Spawner : MonoBehaviour
         {
             totalChance += obstacle.SpawnChance;
         }
-
         float randomPoint = Random.value * totalChance;
 
         foreach (var obstacle in _obstacleList.Obstacles)
@@ -44,24 +49,6 @@ public class Spawner : MonoBehaviour
                 randomPoint -= obstacle.SpawnChance;
             }
         }
-
         return null;
-    }
-
-
-    private void SpawnRandomObstacle()
-    {
-        Spawn(GetRandomObstacle());
-    }
-    
-
-    private void OnEnable()
-    {
-        _timer.Updated += SpawnRandomObstacle;
-    }
-
-    private void OnDisable()
-    {
-        _timer.Updated -= SpawnRandomObstacle;
     }
 }
